@@ -14,9 +14,7 @@ I'm a passionate Fullstack Developer who loves to build amazing things.
 - Backend Development
 - Database Management
 
-## Projects
+## Portfolio
 
-- [Project 1](link-to-project-1): A brief description of project 1.
-- [Project 2](link-to-project-2): A brief description of project 2.
-
-Feel free to explore my repositories and connect with me. Let's collaborate and build something awesome together! 🚀
+[![Portfolio](https://avatars.githubusercontent.com/u/135958250?v=4)](https://elhathoute.github.io/My_Portfolio_Bootstrap/)
+Explore my portfolio to see some of my recent projects.
